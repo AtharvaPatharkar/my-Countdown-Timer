@@ -48,7 +48,6 @@ You need a web browser to run this project.
 
 ## 📁 Project Structure
 
-```plaintext
 my-Countdown-Timer/
 ├── css/
 │   └── styles.css   # CSS file for styling
@@ -71,7 +70,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Inspired by various online tutorials and resources on building countdown timers with HTML, CSS, and JavaScript.
 
----
+
 
 Thank you for checking out My Countdown Timer! If you have any questions or feedback, feel free to reach out.
 
